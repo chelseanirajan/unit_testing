@@ -40,6 +40,8 @@ public class UserServiceTest {
         repeatedPassword = "apple";
     }
 
+    // test case
+
     @DisplayName("User Created Test")
     @Test
     void testUserCreated_whenUserDetailsProvided_returnCreatedUser(){
