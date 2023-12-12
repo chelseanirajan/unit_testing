@@ -39,8 +39,7 @@ public class UserServiceTest {
         password = "apple";
         repeatedPassword = "apple";
     }
-
-    // test case
+    //write test case for negative scenario.
 
     @DisplayName("User Created Test")
     @Test
